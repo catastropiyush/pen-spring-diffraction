@@ -9,6 +9,13 @@ https://github.com/tlkh/pen-spring-diffraction/blob/master/diffraction-answer.ip
 
 If you would like to use this notebook interactively, clone this repository and run: https://github.com/tlkh/pen-spring-diffraction/blob/master/diffraction-answer.ipynb
 
+If you have no idea how to go about doing the above, try https://notebooks.azure.com/
+
+1. Go to: https://notebooks.azure.com/tlkh-sutd/libraries/pen-spring-diffraction
+2. Log in using your Microsoft account (Office 365 enterprise login also works)
+3. Click `Clone` to duplicate the note into your own library
+4. Click on `diffraction.ipynb` and press `Run`
+
 The apparatus for the experiment is extremely simple:
 
 * 3D-printed holder for a generic Chinese laser pointer
